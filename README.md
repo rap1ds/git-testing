@@ -1,3 +1,3 @@
 # Test repository
 
-Try "Default message" setting
+Try "Default to pull request title" setting
