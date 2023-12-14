@@ -14,8 +14,6 @@ jobs:
       id-token: write
       pull-requests: write
       repository-projects: write
-      security-events: write
-      statuses: write
     steps:
       - uses: peter-evans/rebase@6720916065562e44df6007404d22129ce5583978
         with:
