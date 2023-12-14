@@ -9,7 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       checks: write
-      contents: write
       pull-requests: write
     steps:
       - uses: peter-evans/rebase@6720916065562e44df6007404d22129ce5583978
