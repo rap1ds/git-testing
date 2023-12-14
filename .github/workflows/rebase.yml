@@ -8,7 +8,7 @@ jobs:
   rebase:
     runs-on: ubuntu-latest
     steps:
-      - uses: peter-evans/rebase@v2
+      - uses: peter-evans/6720916065562e44df6007404d22129ce5583978
         with:
           base: main
           include-labels: "Rebase automatically"
