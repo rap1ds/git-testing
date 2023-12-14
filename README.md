@@ -6,7 +6,7 @@ Try "Default to pull request title" setting, forgot PR.
 
 # What if there's conflict?
 
-2
+3
 
 # Test autorebase
 
